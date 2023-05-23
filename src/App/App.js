@@ -3,8 +3,12 @@ import SearchBar from '../SearchBar/SearchBar';
 
 function App() {
   return (
-    <SearchBar />
-
+    <div>
+      <header class="App-header-container">
+        <hi class="App-header">Jammming</hi>
+      </header>
+      <SearchBar />
+    </div>
   );
 }
 
