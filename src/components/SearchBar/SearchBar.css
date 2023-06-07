@@ -1,0 +1,7 @@
+.search-bar-container {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 100px;
+    background-color: rgb(132, 0, 255);
+  }

@@ -1,8 +1,9 @@
 import React from "react";
+import './SearchBar.css'
 
 function SearchBar() {
     return (
-        <div>
+        <div class="search-bar-container">
             <h3>Search</h3>
             <form>
                 <input type="text" />

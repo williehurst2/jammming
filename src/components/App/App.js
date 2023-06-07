@@ -5,9 +5,15 @@ function App() {
   return (
     <div>
       <header class="App-header-container">
-        <hi class="App-header">Jammming</hi>
+        <h1 class="App-header">Jammming</h1>
       </header>
-      <SearchBar />
+      <body>
+        <div class="App-container">
+          <div>
+            <SearchBar />
+          </div>
+        </div>
+      </body>
     </div>
   );
 }
