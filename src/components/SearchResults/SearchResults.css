@@ -1,0 +1,8 @@
+.Search-results-container {
+    align-content: start;
+    border-radius: 25%;
+    color: white;
+    text-align: center;
+    padding: 100px;
+    background-color: rgba(0, 102, 255, 0.329);
+  }

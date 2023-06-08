@@ -1,5 +1,6 @@
 import './App.css';
 import SearchBar from '../SearchBar/SearchBar';
+import SearchResults from '../SearchResults/SearchResults';
 
 function App() {
   return (
@@ -11,6 +12,10 @@ function App() {
         <div class="App-container">
           <div>
             <SearchBar />
+          </div>
+          <div class="break"></div>
+          <div>
+            <SearchResults />
           </div>
         </div>
       </body>
